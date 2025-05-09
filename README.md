@@ -14,10 +14,3 @@ This shell script helps users sync data from a local directory to an AWS S3 buck
 
 - AWS CLI installed and configured with the necessary permissions.
 - `bash` shell for executing the script.
-
-## Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/s3sync.git
-   cd s3sync
